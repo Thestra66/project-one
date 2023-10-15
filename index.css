@@ -73,8 +73,9 @@ body {
 
 .social-link {
     display: block;
-    width: 24px;
-    height: 24px;
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
