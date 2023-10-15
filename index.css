@@ -70,24 +70,3 @@ body {
 .social-item:not(:last-child) {
     margin-right: 32px;
 }
-
-.social-link {
-    display: block;
-    width: 24px;
-    height: 24px;
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.social-link-tw {
-    background-image: url(/img/tw.svg);
-}
-
-.social-link-linkedin {
-    background-image: url(/img/linkedin.svg);
-}
-
-.social-link-mail {
-    background-image: url(/img/mail.svg);
-}
